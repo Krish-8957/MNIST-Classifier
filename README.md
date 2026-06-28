@@ -4,7 +4,7 @@ This is a training project that I built while learning PyTorch and Deep Learning
 
 The purpose of this project was to gain hands-on experience with fundamental deep learning concepts such as tensors, neural network layers, activation functions, loss functions, backpropagation, optimizers, and model training.
 
-The model takes a 28×28 grayscale image as input and predicts the digit present in the image. Matplotlib is used to visualize sample images and predictions.
+The model takes a 28×28 grayscale image as input and predicts the digit present in the image. Matplotlib is used to visualize sample images and predictions
 
 ## Technologies Used
 
